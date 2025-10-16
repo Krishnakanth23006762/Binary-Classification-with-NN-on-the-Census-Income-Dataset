@@ -27,7 +27,7 @@ Train the model for 300 epochs using the training data.
 ## STEP 8:
 Evaluate the model on the test data and calculate accuracy.
 
-# STEP 9:
+## STEP 9:
 Display the test accuracy, loss, confusion matrix, and classification report.
 
 ## STEP 10 (Optional):
